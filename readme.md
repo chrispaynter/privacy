@@ -2,9 +2,9 @@
 
 ![Build](https://github.com/chrispaynter/little-snitch-block-lists/workflows/Build/badge.svg)
 
-A collection of block list subscriptions to use with Little Snitch.
+A collection of auto updating Little Snitch rule group subscriptions for protecting your privacy.
 
-All automatically updated once a day.
+Lists are updated every day.
 
 ## Lists
 
