@@ -4,7 +4,7 @@
 
 A collection of auto updating Little Snitch rule group subscriptions for protecting your privacy.
 
-Lists are updated every day.
+Lists are updated every night at midnight.
 
 ## Lists
 
@@ -13,14 +13,10 @@ The following lists are being transformed for use with Little Snitch
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists)
 - More to come
 
-## Building
-
-Run yarn before building any of the rulesets
+## Building manually
 
 ```
 npm install;
 npm run notracking;
 // More to come
 ```
-
-The rule groups are scheduled to auto build periodically.
