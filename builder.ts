@@ -7,6 +7,7 @@ const createTemplate = (name:string, description:string, domains:string[], sourc
   "denied-remote-notes": "Rule from ${source}"
 }`;
 
+
 export const ruleSetBuilder = (name:string, description:string, source:string) => {
 
   let domains:string[] = [];
