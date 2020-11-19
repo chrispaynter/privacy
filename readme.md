@@ -2,9 +2,9 @@
 
 ![Build](https://github.com/chrispaynter/little-snitch-block-lists/workflows/Build/badge.svg)
 
-A collection of auto updating Little Snitch rule group subscriptions for protecting your privacy.
+A collection of auto updating [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) rule group subscriptions for protecting your privacy.
 
-Lists are updated every night at midnight.
+Lists are updated **every night at midnight**.
 
 ## Lists
 
