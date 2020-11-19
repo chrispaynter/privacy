@@ -4,6 +4,7 @@ import { ruleSetBuilder } from "../../builder";
 import {  CLEANED_HOSTNAMES_FILE } from './constants';
 
 const builder = ruleSetBuilder(
+  'hosts',
   'No Tracking - Hostnames', 
   'List built from https://github.com/notracking/hosts-blocklists',
   'https://github.com/notracking/hosts-blocklists');
