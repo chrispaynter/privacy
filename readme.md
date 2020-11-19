@@ -28,8 +28,8 @@ The following lists are being transformed for use with Little Snitch. Copy the s
 
 | Subscription URL                                             | Original Source                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [No Tracking - Domains List](https://raw.githubusercontent.com/chrispaynter/little-snitch-block-lists/master/dist/notracking-domains.lsrules) | [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) |
-| [No Tracking - Hostnames List](https://raw.githubusercontent.com/chrispaynter/little-snitch-block-lists/master/dist/notracking-hostnames.lsrules) | [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) |
+| [No Tracking - Domains List](https://raw.githubusercontent.com/chrispaynter/little-snitch-rules/master/dist/notracking-domains.lsrules) | [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) |
+| [No Tracking - Hostnames List](https://raw.githubusercontent.com/chrispaynter/little-snitch-rules/master/dist/notracking-hostnames.lsrules) | [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) |
 
 ## Building manually
 
