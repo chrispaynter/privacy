@@ -4,7 +4,7 @@ type RuleType = "domains" | "hosts";
 
 const createTemplate = (type: RuleType, name:string, description:string, domains:string[], source:string) => `{
   "name": "${name}",
-  "description": "Last updated ${(new Date()).toUTCString()}. \\n\\n ${description}",
+  "description": "Last updated ${(new Date()).toUTCString()}. \\n\\n${description}",
   "denied-remote-${type}": [${domains.map(u => `"${u}"`).join(', ')}],
   "denied-remote-notes": "Rule from ${source}"
 }`;

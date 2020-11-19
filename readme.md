@@ -18,7 +18,9 @@ All of the lists are precompiled into Little Snitche's [lsrules format](https://
 - File > New Rule Group Selection
 - Paste one of the list subscription URLs below into the prompt
 
-From here you can set some other parameters, such as frequency for Little Snitch to update. As we only update our lists once a day, there's no need to update any less than 24 hours via Little Snitch.
+From here you can set some other parameters, such as frequency for Little Snitch to update.
+
+As our lists update once a day, it's a good idea to set your update frequency to daily.
 
 ## Lists Subscription URLs
 
