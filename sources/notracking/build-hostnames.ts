@@ -13,7 +13,7 @@ const readInterface = readline.createInterface({
 });
 
 readInterface.on('line', function(line:string) {
-  builder.addRule(line);
+  builder.addDeniedDomain(line);
 });
 
 readInterface.on('close', () => {

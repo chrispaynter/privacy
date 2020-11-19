@@ -3,7 +3,7 @@ import fs from 'fs';
 const createTemplate = (name:string, description:string, domains:string[], source:string) => `{
   "name": "${name}",
   "description": "Last updated ${(new Date()).toUTCString()}. ${description}",
-  "denied-remote-domains": [${domains.join(', ')}],
+  "denied-remote-domains": [${domains.map(u => `"${u}"`).join(', ')}],
   "denied-remote-notes": "Rule from ${source}"
 }`;
 
@@ -11,7 +11,7 @@ export const ruleSetBuilder = (name:string, description:string, source:string) =
 
   let domains:string[] = [];
 
-  const addRule = (domain:string) => {
+  const addDeniedDomain = (domain:string) => {
     domains.push(domain);
   }
 
@@ -23,7 +23,7 @@ export const ruleSetBuilder = (name:string, description:string, source:string) =
 
 
   return {
-    addRule,
+    addDeniedDomain,
     build
   }
 }
