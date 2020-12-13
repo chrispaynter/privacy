@@ -1,3 +1,6 @@
+intercom.com
+intercom.io
+intercomcdn.com
 mandrillapp.com
 raven.js
 sentry-cdn.com

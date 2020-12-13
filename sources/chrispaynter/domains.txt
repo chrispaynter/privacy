@@ -1,3 +1,5 @@
+alexa.com
+bestazon.io
 byside.com
 calendly.com
 centrofiles.com
@@ -12,8 +14,10 @@ modesandbox.com
 openh264.org
 orangeclickmedia.com
 pinpoint.us-west-2.amazonaws.com
+siteindices.com
 rightmessage.com
 trafficjunky.net
+zapier-staging.com
 zdassets.com
 zdusercontent.com
 zendesk.com
