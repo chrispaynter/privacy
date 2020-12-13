@@ -35,6 +35,10 @@ Use [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) on Ma
 
 Using Little Snitch rule set subscriptions, I can have as close to exact blocking as I get from Next DNS, without having to worry about losing it when I activate the VPN.
 
+Most protection from Little Snitch comes from rule subscriptions that target all processes.
+
+I also check periodically individual apps, to see what they've been accessing, and deny certain domains per app as required.
+
 ### Browser Level
 
 

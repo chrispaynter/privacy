@@ -1,0 +1,115 @@
+{
+  "name": "Chris Paynter - Domains",
+  "description": "Last updated Sun, 13 Dec 2020 08:00:06 GMT. \n\nMy adhoc list of domains that I catch in Little Snitch \n\nContains 18 domains",
+  "rules": [
+    
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "byside.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "calendly.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "centrofiles.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "datadoghq-browser-agent.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "doorbell.io"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "ggpht.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "insighttimer.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "medium.systems"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "mode.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "modeanalytics.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "modesandbox.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "openh264.org"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "orangeclickmedia.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "pinpoint.us-west-2.amazonaws.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "trafficjunky.net"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "zdassets.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "zdusercontent.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "zendesk.com"
+    }
+  ]
+}

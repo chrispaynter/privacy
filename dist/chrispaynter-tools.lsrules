@@ -1,0 +1,25 @@
+{
+  "name": "Chris Paynter - Tools (Domains)",
+  "description": "Last updated Sun, 13 Dec 2020 08:00:07 GMT. \n\nBlocking tools that can lead to tracking. I need to develop with some of these tools in my day to day work, so I maintain this list separately to easily turn it on and off. \n\nContains 3 domains",
+  "rules": [
+    
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "mandrillapp.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "raven.js"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "sentry-cdn.com"
+    }
+  ]
+}

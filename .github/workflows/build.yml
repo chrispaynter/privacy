@@ -18,6 +18,8 @@ jobs:
         run: npm install
       - name: Build NoTracking
         run: npm run notracking
+      - name: Build Chris Paynter
+        run: npm run chrispaynter
       - name: Commit updates
         run: |
           git add -A;

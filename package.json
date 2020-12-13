@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "notracking": "./sources/notracking/build.sh"
+    "notracking": "./sources/notracking/build.sh",
+    "chrispaynter": "./sources/chrispaynter/build.sh"
   },
   "devDependencies": {
     "@types/node": "^14.14.8",
