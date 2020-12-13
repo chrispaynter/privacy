@@ -1,6 +1,6 @@
 {
   "name": "Chris Paynter - Domains",
-  "description": "Last updated Sun, 13 Dec 2020 08:05:12 GMT. \n\nMy adhoc list of domains that I catch in Little Snitch \n\nContains 18 domains",
+  "description": "Last updated Sun, 13 Dec 2020 15:14:44 GMT. \n\nMy adhoc list of domains that I catch in Little Snitch \n\nContains 19 domains",
   "rules": [
     
     {
@@ -86,6 +86,12 @@
       "notes": "Sourced from ",
       "process": "any",
       "remote-domains": "pinpoint.us-west-2.amazonaws.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "rightmessage.com"
     },
     {
       "action": "deny",
