@@ -1,6 +1,8 @@
-# Little Snitch Block Lists
+# Privacy
 
 ![Build](https://github.com/chrispaynter/little-snitch-block-lists/workflows/Build/badge.svg)
+
+[My approach to privacy](./approach.md)
 
 A collection of auto updating [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) rule group subscriptions for protecting your privacy.
 
