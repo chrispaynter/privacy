@@ -1,8 +1,20 @@
 {
   "name": "Chris Paynter - Domains",
-  "description": "Last updated Mon, 14 Dec 2020 00:02:16 GMT. \n\nMy adhoc list of domains that I catch in Little Snitch \n\nContains 19 domains",
+  "description": "Last updated Mon, 14 Dec 2020 10:08:55 GMT. \n\nMy adhoc list of domains that I catch in Little Snitch \n\nContains 20 domains",
   "rules": [
     
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "alexa.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "bestazon.io"
+    },
     {
       "action": "deny",
       "notes": "Sourced from ",
@@ -91,6 +103,12 @@
       "action": "deny",
       "notes": "Sourced from ",
       "process": "any",
+      "remote-domains": "siteindices.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
       "remote-domains": "rightmessage.com"
     },
     {
@@ -103,19 +121,7 @@
       "action": "deny",
       "notes": "Sourced from ",
       "process": "any",
-      "remote-domains": "zdassets.com"
-    },
-    {
-      "action": "deny",
-      "notes": "Sourced from ",
-      "process": "any",
-      "remote-domains": "zdusercontent.com"
-    },
-    {
-      "action": "deny",
-      "notes": "Sourced from ",
-      "process": "any",
-      "remote-domains": "zendesk.com"
+      "remote-domains": "zapier-staging.com"
     }
   ]
 }
