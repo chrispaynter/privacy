@@ -1,6 +1,6 @@
 {
   "name": "Chris Paynter - Domains",
-  "description": "Last updated Sat, 27 Feb 2021 00:01:55 GMT. \n\nMy adhoc list of domains that I catch in Little Snitch \n\nContains 20 domains",
+  "description": "Last updated Sat, 27 Feb 2021 09:06:57 GMT. \n\nMy adhoc list of domains that I catch in Little Snitch \n\nContains 21 domains",
   "rules": [
     
     {
@@ -56,6 +56,12 @@
       "notes": "Sourced from ",
       "process": "any",
       "remote-domains": "insighttimer.com"
+    },
+    {
+      "action": "deny",
+      "notes": "Sourced from ",
+      "process": "any",
+      "remote-domains": "klevu.com"
     },
     {
       "action": "deny",
