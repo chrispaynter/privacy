@@ -1,6 +1,6 @@
 {
   "name": "No Tracking - Hostnames",
-  "description": "Last updated Thu, 26 Nov 2026 00:00:46 GMT. \n\nList built from https://github.com/notracking/hosts-blocklists \n\nContains 250170 hosts",
+  "description": "Last updated Thu, 26 Nov 2026 23:02:43 GMT. \n\nList built from https://github.com/notracking/hosts-blocklists \n\nContains 250170 hosts",
   "rules": [
     
     {
